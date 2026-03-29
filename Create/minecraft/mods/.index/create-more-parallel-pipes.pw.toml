@@ -1,0 +1,17 @@
+filename = 'cmparallelpipes-forge-2.0.3.jar'
+name = 'Create More: Parallel Pipes'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cmparallelpipes-forge-2.0.3.jar'
+
+[download]
+hash = 'dc08fe70aca4a3827982017455e68a4be37a75d5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7379424
+project-id = 1283321

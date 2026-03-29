@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tst"
+	group: ""
+	id: "30AB7D40CDEF0BB5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "59EF973D3CA02960"
+		rewards: [{
+			id: "267BAB9181054F2E"
+			item: "minecraft:oak_slab"
+			type: "item"
+		}]
+		tasks: [{
+			id: "5FA694546F4CDB5D"
+			item: "minecraft:stripped_oak_log"
+			type: "item"
+		}]
+		x: 0.0d
+		y: -2.0d
+	}]
+	title: "tst"
+}

@@ -1,0 +1,123 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "kubejs:arcane_alloy_ingot",
+        "amount": 2
+      },
+      "recipe": "jei:/create/kjs/a7apc2qz2iwquf11tftxpeu5y"
+    }
+  ],
+  "lookup_history": [
+    "item:kubejs:uncharged_singularity_catalyst",
+    "item:kubejs:charged_singularity_catalyst",
+    "item:kubejs:arcane_singularity",
+    "item:kubejs:singular_essence",
+    "item:kubejs:arcane_alloy_ingot",
+    "item:kubejs:singularity_fragment",
+    "item:kubejs:creative_source_matrix",
+    "item:brewinandchewin:beer",
+    "item:arsdelight:mendosteen_hornbeer",
+    "item:create:blaze_cake",
+    "item:create:blaze_cake_base",
+    "item:kubejs:compressed_source_mass",
+    "item:kubejs:hybrid_catalyst_piece",
+    "item:ars_nouveau:source_gem_block",
+    "item:ars_nouveau:source_gem",
+    "item:create:creative_motor",
+    "item:sophisticatedstorage:controller",
+    "item:kubejs:singularity_scaffold",
+    "item:create:golden_sheet",
+    "item:create:large_cogwheel",
+    "item:create:precision_mechanism",
+    "item:create:zinc_ingot",
+    "item:create:andesite_alloy",
+    "item:create:shaft",
+    "item:create:brass_ingot",
+    "item:create:brass_sheet",
+    "item:create:brass_casing",
+    "item:sophisticatedstorage:barrel",
+    "item:kubejs:mechanomantic_core",
+    "item:kubejs:resonant_storage_core",
+    "item:kubejs:energized_mechanism",
+    "item:kubejs:charged_archengine_frame",
+    "item:kubejs:arcane_flux_core",
+    "item:kubejs:incomplete_hybrid_catalyst_piece",
+    "item:kubejs:incomplete_infused_precision_mechanism",
+    "item:sophisticatedstorage:survival_infinity_upgrade",
+    {
+      "type": "fluid",
+      "id": "createfood:chorus_fruit_cream_frosting",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "createfood:chorus_fruit_jam",
+      "amount": 0
+    },
+    "item:minecraft:dragon_egg",
+    "item:chisel_chipped_integration:metal_cobalt_shipping_crate",
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:purple_cement",
+      "amount": 1000
+    },
+    "item:createdieselgenerators:purple_cement_bucket",
+    {
+      "type": "item",
+      "id": "minecraft:cyan_dye",
+      "amount": 2
+    },
+    "item:biomeswevegone:foxglove",
+    "item:minecraft:book{display:{Name:\u0027{\"text\":\"Any compatible item\"}\u0027}}",
+    "item:ars_nouveau:sourceberry_bush",
+    "item:delightful:source_berry_gummy",
+    "item:ars_creo:starbuncle_wheel",
+    "item:ars_nouveau:source_jar",
+    "item:ars_elemental:aqua_hat{Damage:0}",
+    "item:ars_elemental:air_robes{Damage:0}",
+    "item:ars_elemental:air_hat{Damage:0}",
+    "item:ars_nouveau:imbuement_chamber",
+    "item:ars_nouveau:manipulation_essence",
+    "item:ars_nouveau:magebloom_fiber",
+    "item:ars_nouveau:magebloom"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [
+      "jei:/create/kjs/resonant_storage_core",
+      "jei:/create/kjs/j46sqexwqwxa6vv8v6iptxvo",
+      "jei:/create/pressing/gold_ingot",
+      "jei:/create/kjs/arcane_singularity",
+      "jei:/create/kjs/singularity_scaffold",
+      "jei:/create/kjs/uncharged_singularity_catalyst",
+      "minecraft:kjs/sophisticatedstorage_barrel",
+      "jei:/create/pressing/brass_ingot",
+      "jei:/ars_nouveau/kjs/buvbswu07vby4seaourr0hw0r",
+      "jei:/create/kjs/a7apc2qz2iwquf11tftxpeu5y",
+      "jei:/create/compacting/blaze_cake",
+      "jei:/ars_nouveau/imbuement_lapis",
+      "jei:/create/kjs/692oc235wfxqkwea5kkdq1h69",
+      "create:crafting/kinetics/shaft",
+      "minecraft:kjs/create_brass_casing",
+      "jei:/create/kjs/singularity_fragment",
+      "create:crafting/kinetics/large_cogwheel",
+      "jei:/ars_nouveau/kjs/enqb4qvz5if0e92viu3bqhkvm",
+      "jei:/create/kjs/d7spw1c7l2buemv8hx7obrwjc",
+      "minecraft:kjs/sophisticatedstorage_controller",
+      "jei:/ars_nouveau/kjs/amh9xb4z680zwneh3gyp14ggf",
+      "jei:/create/kjs/6nak07chpki493aq7ovcwvcps",
+      "jei:/create/filling/blaze_cake",
+      "minecraft:kjs/create_andesite_alloy",
+      "jei:/create/kjs/j30qvsu9vmyfxem612nz1vtm",
+      "ars_nouveau:source_gem_block",
+      "jei:/create/mixing/brass_ingot",
+      "jei:/ars_nouveau/kjs/2i269iqohsmhbk2w2juvxfr92"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

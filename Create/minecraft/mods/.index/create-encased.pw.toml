@@ -1,0 +1,17 @@
+filename = 'Create Encased-1.20.1-1.8-ht2.jar'
+name = 'Create Encased'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Encased-1.20.1-1.8-ht2.jar'
+
+[download]
+hash = 'e6cd066b30fa67e93fc5a993d1615f7b4106aac4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7459743
+project-id = 829380

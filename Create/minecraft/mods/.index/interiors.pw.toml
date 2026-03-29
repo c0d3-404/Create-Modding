@@ -1,0 +1,17 @@
+filename = 'interiors-1.20.1-forge-0.6.0.jar'
+name = 'Create: Interiors'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Interiors 0.6.0 for Forge 1.20.'
+
+[download]
+hash = '3371c5ab69a1169f74bee7ab6349bc0f5d6e69bb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7338640
+project-id = 906239

@@ -1,0 +1,17 @@
+filename = 'chippedexttras-1.4.jar'
+name = 'ChippedExtras'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'chippedexttras-1.4.jar'
+
+[download]
+hash = 'cd4f89b30ae867c7bbc099680340fdbdd3b08e8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6999371
+project-id = 1330199

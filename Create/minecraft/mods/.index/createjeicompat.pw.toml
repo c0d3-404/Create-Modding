@@ -1,0 +1,17 @@
+filename = 'createjeicompat-1.0.0.jar'
+name = 'Create JEI Compat'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createjeicompat-1.0.0.jar'
+
+[download]
+hash = '8299af9a3fed29416a567d23dc572c448b576287'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7688366
+project-id = 1422344

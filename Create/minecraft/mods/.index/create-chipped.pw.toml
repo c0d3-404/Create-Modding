@@ -1,0 +1,17 @@
+filename = 'create_chipped-1.0.0-forge-1.20.1.jar'
+name = 'Create:  Chipped'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_chipped-1.0.0-forge-1.20.1.jar'
+
+[download]
+hash = '24cf9a18dcb86947bea077d3d5ddcb1863142ee3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6849159
+project-id = 1321045

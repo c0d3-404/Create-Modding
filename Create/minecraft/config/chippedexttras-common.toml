@@ -1,0 +1,9 @@
+
+[variants]
+	#Include End/Nether families (purpur, quartz, blackstone/basalt, nether/end stone, soul sand/soil, etc.).
+	#Default: false (EXCLUDED)
+	enableEndNetherVariants = false
+	#Include exotic overworld families (amethyst, prismarine, obsidian, calcite, tuff, deepslate).
+	#Default: false (EXCLUDED)
+	enableExoticVariants = false
+

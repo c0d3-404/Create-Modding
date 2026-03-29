@@ -1,0 +1,23 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_hot_planets/jet_suit",
+        "ad_astra:surviving_mars/venus_and_mercury",
+        "ad_astra:the_moon/space_station",
+        "ad_astra:the_first_launch/your_first_rocket"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:equipment/belt_of_unstable_gifts"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

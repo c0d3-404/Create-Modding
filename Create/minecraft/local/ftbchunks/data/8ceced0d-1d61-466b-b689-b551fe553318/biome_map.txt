@@ -1,0 +1,16 @@
+#556 minecraft:beach
+#3DF biomeswevegone:coconino_meadow
+#3D6 minecraft:cold_ocean
+#764 biomeswevegone:dacite_ridges
+#109 minecraft:deep_cold_ocean
+#705 minecraft:deep_frozen_ocean
+#010 minecraft:forest
+#2D3 biomeswevegone:forgotten_forest
+#292 minecraft:frozen_ocean
+#3A0 minecraft:frozen_river
+#3DC minecraft:plains
+#5FF minecraft:river
+#3B9 biomeswevegone:skyris_vale
+#72D minecraft:snowy_beach
+#51A minecraft:stony_shore
+#169 minecraft:taiga

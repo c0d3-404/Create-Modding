@@ -1,0 +1,17 @@
+filename = 'create_furnitures-1.1.3-forge-1.20.1.jar'
+name = 'Create : New Furnitures'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_furnitures-1.1.3-forge-1.20.1.jar'
+
+[download]
+hash = '8817ff3b8abf40136266ffa94e1bdd085a1e1430'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7740486
+project-id = 1162995
