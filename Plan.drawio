@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="fSGBaT2Dti0QzPa5IM75">
+    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-4" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Magic&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-6" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tech&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="640" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-9" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Source Gem&lt;/div&gt;&lt;div&gt;found&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-8" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Andesite Alloy&lt;/div&gt;&lt;div&gt;2 iron nuggets, 2 andesite&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-14" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-16" edge="1" parent="1" source="wCR0Z53VRJfbPtqPbaOZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wCR0Z53VRJfbPtqPbaOZ-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Basic Arcane alloy&lt;/div&gt;&lt;div&gt;1 alloy, 1 source&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-13" parent="1" style="whiteSpace=wrap;html=1;" value="Basic Create stuff" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="wCR0Z53VRJfbPtqPbaOZ-15" parent="1" style="whiteSpace=wrap;html=1;" value="Basic Ars stuff" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
